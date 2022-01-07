@@ -1,7 +1,7 @@
 ### Hi there, I'm Vinicius 👋
 
 <div style="height=180em">
-  <a href="https://www.linkedin.com/in/vinicius-noronha-1540b2184/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" > </a>
+  <a href="https://www.linkedin.com/in/vinicius-noronha-1540b2184/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 </div>
 <br>
 
