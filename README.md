@@ -1,9 +1,10 @@
 ### Hi there, I'm Vinicius 👋
 
-<!--
-**viniciusna/viniciusna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="height=180em">
+  <a href="https://www.linkedin.com/in/vinicius-noronha-1540b2184/" target="_blank" ><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
+</div>
+<br>
 
-Here are some ideas to get you started:-->
 :electron: I have a bachelor's degree in physics from Universidade Federal de Minas Gerais (UFMG)
 
 :books: I'm currently studying full stack web development at Alpha EdTech
