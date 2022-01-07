@@ -8,7 +8,7 @@ Here are some ideas to get you started:-->
 
 :books: I'm currently studying full stack web development at Alpha EdTech
 
-:compass: I'm living in Ibirité-MG
+:compass: I'm living in Ibirité-MG, Brazil
 
 ### Technologies: 
 - Front-end: HTML5, CSS3, Javascript
