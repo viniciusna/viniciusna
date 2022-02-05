@@ -14,8 +14,8 @@
 ### Technologies: 
 - Front-end: HTML5, CSS3, Javascript
 - Back-end: NodeJs
-- Others: Wolfram Mathematica, Python
-- 🌱 I’m currently learning NodeJs, Javascript and Linux
+- Others: Figma, Wolfram Mathematica, Python
+- 🌱 I’m currently learning JQuery
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
