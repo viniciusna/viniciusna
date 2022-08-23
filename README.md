@@ -16,6 +16,7 @@
 - Back-end: NodeJs, ruby on rails
 - Languages: Javascript, Ruby, Typescript, Python
 - Others: Figma, Wolfram Mathematica
+- database: PostgreSQL
 - 🌱 I’m currently learning 
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
