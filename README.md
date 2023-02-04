@@ -7,8 +7,6 @@
 
 :electron: I have a bachelor's degree in physics from Universidade Federal de Minas Gerais (UFMG)
 
-:books: I'm currently studying full stack web development at Alpha EdTech and back-end developer intern at CloudWalk, Inc.
-
 :compass: I'm living in Ibirité-MG, Brazil
 
 ### Technologies: 
@@ -16,7 +14,7 @@
 - Back-end: NodeJs, ruby on rails
 - Languages: Javascript, Ruby, Typescript, Python
 - Others: Figma, Wolfram Mathematica
-- database: PostgreSQL
+- database: PostgreSQL, Google BigQuery
 - 🌱 I’m currently learning 
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
